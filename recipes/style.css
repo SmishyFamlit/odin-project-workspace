@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-family: 'Times New Roman';
+}
+.grid {
+    display: block grid;;
+}
+
+.list {
+    float: left;
+    list-style: none;
+    /* text-align: center; */
+    background-color: red;
+    /* margin-right: 30px;
+    width: 50px;
+    line-height: 20px; */
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+    
+}
+
+.center {
+    text-align: center;
+}
+
+
+#picture {
+    height: 300;
+    width: auto;
+}
